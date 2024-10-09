@@ -161,5 +161,3 @@ cython_debug/
 
 cred.yml
 geckodriver.exe
-reports/
-extracted_table_data.csv
