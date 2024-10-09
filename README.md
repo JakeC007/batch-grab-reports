@@ -25,7 +25,7 @@ This Python script automates the process of downloading reports from a specific 
 
 3. Download Geckodriver:
 
-    - Download Geckodriver from the official site.
+    - Download [geckodriver for Firefox](https://github.com/mozilla/geckodriver/releases)
     - Ensure that the location of `geckodriver.exe` is specified in the script.
 
 4. Edit the YAML file for credentials:
