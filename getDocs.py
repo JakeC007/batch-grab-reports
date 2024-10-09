@@ -57,7 +57,7 @@ def login():
     """
     Logs into the WEBSITE application using credentials stored in a YAML file.
     """
-    cred_f = "cred.yml"
+    cred_f = "credentials.yml"
     with open(cred_f, 'r') as file:
         config = yaml.safe_load(file)
 
